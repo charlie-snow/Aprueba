@@ -1,0 +1,22 @@
+A {
+	font-size : 14px;
+	color : white;
+	font-family : Arial;
+	font-weight : bold;
+}
+				  
+A:link {
+	text-decoration: none;
+}
+				  
+A:visited {
+	text-decoration: none;
+}
+				 
+A:active {
+	text-decoration: none;
+}
+
+A:hover {
+	text-decoration: underline;
+}
